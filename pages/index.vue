@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        mt-app
+        mt-app1111
       </h1>
       <h2 class="subtitle">
         My legendary Nuxt.js project
